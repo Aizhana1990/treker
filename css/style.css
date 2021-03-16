@@ -1,0 +1,5 @@
+body{
+    background: url("../images/fon.jpg")no-repeat center/cover;
+    min-height: 100vh;
+    font-family: 'Source Serif Pro', serif;
+}
